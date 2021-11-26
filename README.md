@@ -7,9 +7,9 @@ The objective of this report is to analyze the raw data and present a report tha
 
 The data will be provided to you in three directories:
 
-•	Network 1
-•	Network 2
-•	Network 3
+- Network 1
+- Network 2
+- Network 3
 
 Each directory contains files and directories such as snort data, tcpdump captures, and other miscellaneous logfiles (for each network) captured by a sensors positioned at the perimeter of the network or in some cases on the key server itself.
 
