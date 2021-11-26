@@ -17,8 +17,8 @@ This report provides a summary of all the data in the form of tables and graphs 
 
 It will analyze and present the results as the following general areas of interest:
 
-•	A summary of detects prioritized by number of occurrences for each of the three networks.
-•	Malicious traffic, reconnaissance traffic, and benign traffic.
-•	The top sources of traffic to and from each network.
-•	A list of source addresses together with their registration information. These are selected on the basis of posing a high risk to the security of the network.
+- A summary of detects prioritized by number of occurrences for each of the three networks.
+- Malicious traffic, reconnaissance traffic, and benign traffic.
+- The top sources of traffic to and from each network.
+- A list of source addresses together with their registration information. These are selected on the basis of posing a high risk to the security of the network.
 
